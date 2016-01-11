@@ -21,6 +21,7 @@ Fastplace: 高速ブロック設置
 Fastheal: 食事音異常 即時回復
 Fastbow/Instantbow: 弓高速連射
 Fastconsume: 食事音異常(消費無)
+Fastladder: はしごを速くのぼる
 Glide: 落下速度低下
 Highjump: 跳躍力上昇
 Jesus/Waterwalk: 水上歩行
@@ -28,8 +29,10 @@ Killaura: キル無双
 Nuker: 周囲のブロック削除
 Nofall: 落下ダメージ無効
 Noslowdown: 走りながら弓射ち・食事 水やクモの巣でも動きが遅くならない
+Noburn: 燃えても一瞬で消える
 Speed: 移動速度上昇
 Spider/Climb: 壁のぼり
 Sneak: スニーク状態維持
+Step: 段差を速くのぼる
 Timer: 全てのアクションをn倍速
 Xray: 地下透視
