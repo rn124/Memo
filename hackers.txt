@@ -1,2 +1,30 @@
 [Overcast Network]
 https://oc.tc/Heylatsch - Hack: Fly
+
+[Hacks list]
+Fly: 飛行
+Speed: 移動速度上昇
+AntiKnockback/Noknockback: ノックバック無効
+Bowaimbot: 弓エイム自動補正
+Clickaimbot: クリック時自動エイム補正
+Aimbot: エイム自動補正
+Spider: 壁のぼり
+Xray: 地下透視
+Nuker: 周囲のブロック削除
+Autoarmor: 防具自動装備
+Highjump: 跳躍力上昇
+Jesus: 水上歩行
+Nofall: 落下ダメージ無効
+Fastfall: 落下速度上昇
+Glide: 落下速度低下
+Fastbow/Instantbow: 弓高速連射
+Forcefield: 周囲のプレイヤーにダメージ付与
+Fastbreak: 高速ブロック破壊
+Killaura: キル無双
+Blink: TP
+Fasteat: 速く食べる(消費有)
+Dolphin: 速く泳ぐ
+Criticals: 全攻撃をクリティカルにする
+Fastplace: 高速ブロック設置
+Sneak: スニーク状態維持
+Timer: 全てのアクションをn倍速
