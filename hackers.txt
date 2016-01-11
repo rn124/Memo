@@ -29,7 +29,7 @@ Nuker: 周囲のブロック削除
 Nofall: 落下ダメージ無効
 Noslowdown: 走りながら弓射ち・食事 水やクモの巣でも動きが遅くならない
 Speed: 移動速度上昇
-Spider: 壁のぼり
+Spider/Climb: 壁のぼり
 Sneak: スニーク状態維持
 Timer: 全てのアクションをn倍速
 Xray: 地下透視
