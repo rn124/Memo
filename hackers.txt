@@ -2,32 +2,33 @@
 https://oc.tc/Heylatsch - Hack: Fly
 
 [Hacks list]
-Fly: 飛行
-Speed: 移動速度上昇
+Aimbot: エイム自動補正
+Autoarmor: 防具自動装備
 AntiKnockback/Noknockback: ノックバック無効
 Bowaimbot: 弓エイム自動補正
+Blink: TP
+Criticals: 全攻撃をクリティカルにする
 Clickaimbot: クリック時自動エイム補正
-Aimbot: エイム自動補正
-Spider: 壁のぼり
-Xray: 地下透視
-Nuker: 周囲のブロック削除
-Autoarmor: 防具自動装備
-Highjump: 跳躍力上昇
-Jesus/Waterwalk: 水上歩行
-Nofall: 落下ダメージ無効
+Clickbot: 高速連打
+Dolphin: 速く泳ぐ
 Fastfall: 落下速度上昇
-Glide: 落下速度低下
-Fastbow/Instantbow: 弓高速連射
+Fly: 飛行
 Forcefield: 周囲のプレイヤーにダメージ付与
 Fastbreak: 高速ブロック破壊
-Killaura: キル無双
-Blink: TP
 Fasteat: 速く食べる(消費有)
-Dolphin: 速く泳ぐ
-Criticals: 全攻撃をクリティカルにする
 Fastplace: 高速ブロック設置
+Fastheal: 食事音異常 即時回復
+Fastbow/Instantbow: 弓高速連射
+Fastconsume: 食事音異常(消費無)
+Glide: 落下速度低下
+Highjump: 跳躍力上昇
+Jesus/Waterwalk: 水上歩行
+Killaura: キル無双
+Nuker: 周囲のブロック削除
+Nofall: 落下ダメージ無効
+Noslowdown: 走りながら弓射ち・食事 水やクモの巣でも動きが遅くならない
+Speed: 移動速度上昇
+Spider: 壁のぼり
 Sneak: スニーク状態維持
 Timer: 全てのアクションをn倍速
-Clickbot: 高速連打
-Noslowdown: 走りながら弓射ち・食事 水やクモの巣でも動きが遅くならない
-Fastheal: 食事音異常 即時回復
+Xray: 地下透視
