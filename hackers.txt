@@ -13,7 +13,7 @@ Xray: 地下透視
 Nuker: 周囲のブロック削除
 Autoarmor: 防具自動装備
 Highjump: 跳躍力上昇
-Jesus: 水上歩行
+Jesus/Waterwalk: 水上歩行
 Nofall: 落下ダメージ無効
 Fastfall: 落下速度上昇
 Glide: 落下速度低下
@@ -28,3 +28,6 @@ Criticals: 全攻撃をクリティカルにする
 Fastplace: 高速ブロック設置
 Sneak: スニーク状態維持
 Timer: 全てのアクションをn倍速
+Clickbot: 高速連打
+Noslowdown: 走りながら弓射ち・食事 水やクモの巣でも動きが遅くならない
+Fastheal: 食事音異常 即時回復
