@@ -14,7 +14,7 @@ Clickaimbot: クリック時自動エイム補正
 Clickbot: 高速連打
 Dolphin: 速く泳ぐ
 Fastfall: 落下速度上昇
-Fly: 飛行
+Fly/Flight: 飛行
 Forcefield: 周囲のプレイヤーにダメージ付与
 Fastbreak: 高速ブロック破壊
 Fasteat: 速く食べる(消費有)
