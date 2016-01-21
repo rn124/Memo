@@ -1,7 +1,6 @@
 [Overcast Network]
 [US]https://oc.tc/Heylatsch - Hack: Fly
 [US]https://oc.tc/pandipanda77 - Hack: Sneak
-[EU]https://oc.tc/SkYLiFeBBL - Hack: N/A
 
 [Hacks list]
 Aimbot: エイム自動補正
