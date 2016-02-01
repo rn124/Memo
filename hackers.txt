@@ -1,6 +1,7 @@
 [Overcast Network]
 [US]https://oc.tc/Heylatsch - Hack: Fly
 [US]https://oc.tc/pandipanda77 - Hack: Sneak
+[US]https://oc.tc/icehuge - Hack: Fly
 [EU]https://oc.tc/Dandindon - Hack: Fly, Fastbreak
 
 [Hacks list]
