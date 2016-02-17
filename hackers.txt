@@ -9,6 +9,7 @@ Aimbot: エイム自動補正
 Autoarmor: 防具自動装備
 AntiKnockback/Noknockback: ノックバック無効
 Autotool: ブロック破壊時自動で適切ツール使用
+Autobuild: 自動建築
 Bowaimbot: 弓エイム自動補正
 Blink: TP
 Criticals: 全攻撃をクリティカルにする
